@@ -3,7 +3,7 @@
 <h3 align="center">👋Thanks for coming!</h3>
 <p align="center">
   I'm a junior full-stack developer.<br/>
-  (...actually hoping so)<br/>
+  (...In fact, I want it to be.)<br/>
   These days, I'm interested in React, Node.js, Python Web Scraping.
 </p>
 <br/>
