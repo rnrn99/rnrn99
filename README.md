@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=F5DF4D&height=200&section=header&text=rnrn99's%20github!&fontSize=50&animation=blink"/>
 <h3 align="center">👋Thanks for coming!</h3>
 <p align="center">
-  I'm a junior full-stack developer.<br/>
-  (...In fact, I want it to be.)<br/>
   These days, I'm interested in React, Node.js, Python Web Scraping.
 </p>
 <br/>
