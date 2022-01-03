@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=F5DF4D&height=200&section=header&text=rnrn99's%20github!&fontSize=50&animation=blink"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6667AB&height=200&section=header&text=rnrn99's%20github!&fontSize=50&animation=blink"/>
 <h3 align="center">👋Thanks for coming!</h3>
 <p align="center">
   I want to be front-end / fullstack developer.
@@ -34,7 +34,7 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=939597&height=200&section=footer&text=&fontSize=90&&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6667AB&height=200&section=footer&text=&fontSize=90&&reversal=true" />
 
 <!--
 **rnrn99/rnrn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
