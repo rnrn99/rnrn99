@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&customColorList=0,1,2,15" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&customColorList=0,1,2,15&text=rnrn99's%20github!&fontSize=50&animation=blink&fontColor=000" alt="header">
 <h3 align="center">👋Thanks for coming!</h3>
 <p align="center">
   I want to be front-end / fullstack developer.
@@ -36,5 +36,5 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&reversal=true&customColorList=0,1,2,15" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&reversal=true&customColorList=0,1,2,15" alt="footer">
 
