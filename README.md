@@ -4,7 +4,7 @@
 <p align="center">
   I want to be front-end / fullstack developer.
   <br/>
-  These days, I'm interested in React, Node.js, Python Web Scraping.
+  These days, I'm interested in React, Next.js, Python Web Scraping.
 </p>
 <br/>
 <br/>
