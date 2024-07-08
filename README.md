@@ -25,6 +25,11 @@
 <br/>
 <br/>
 <br/>
+
+<a href="https://github.com/rnrn99/gitanimals">
+  <img src="https://render.gitanimals.org/farms/rnrn99"/>
+</a>
+
 <p align="center">🙋🙋🙋</p>
 <div align="center">
   <a href="https://cansweep.tistory.com">
@@ -37,7 +42,3 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&reversal=true&customColorList=0,1,2,15" alt="footer">
-
-<a href="https://github.com/rnrn99/gitanimals">
-  <img src="https://render.gitanimals.org/lines/rnrn99?pet-id=1" width="1000" height="120"/>
-</a>
